@@ -1,0 +1,3 @@
+[submodule "assets/builtins"]
+	path = assets/builtins
+	url = git@github.com:florian-dehe/light2d-builtins.git
